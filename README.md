@@ -15,4 +15,4 @@ Irá conter:
 ~ etc
 
 
-Agradecimentos do Akira~ 
+Agradecimentos do Akira 🌟
