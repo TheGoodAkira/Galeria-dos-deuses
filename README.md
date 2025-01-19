@@ -5,9 +5,13 @@
 Uma pequena galeria sobre deuses das mitologias 
 
 Irá conter:
+
 ~ Mitologia grega 
+
 ~ Mitologia romana 
+
 ~ Mitologia nórdica
+
 ~ etc
 
 
