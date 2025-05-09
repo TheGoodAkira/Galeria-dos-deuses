@@ -36,12 +36,12 @@ body {
 .cartao__conteudo h3 {
     color: var(--text-color);
     border: 1px solid var(--text-color);
-    text-align: left;
+    text-align: center;
     padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 38px ;
+    font-size: 24px ;
     backface-visibility: hidden;
 }
 
@@ -49,7 +49,7 @@ body {
     margin-top: 0.5px;
     padding: 1px;
     margin-top: 4rem;
-    font-size: 38px;
+    font-size: 24px;
 }
 
 .cartao__conteudo__pergunta p {
@@ -59,7 +59,7 @@ body {
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
-    font-weight: 8000;
+    font-weight: 800;
 }
 
 .cartao.active .cartao__conteudo {
